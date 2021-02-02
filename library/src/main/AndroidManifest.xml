@@ -2,8 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.jianglin.libcommon">
 
-    <application>
-        <activity android:name=".BaseActivity"></activity>
-    </application>
+
 
 </manifest>
